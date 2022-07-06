@@ -1,5 +1,11 @@
-# LSE_DA_COVID_analysis - Matt Rose
-LSE Course - Module 2 Covid Analysis
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css"
+ </head>
+<body>
+<h1>
+LSE Course - Module 2 Covid Analysis</h1>
 
 <h2>Scenario</h2>
 
@@ -34,11 +40,21 @@ The key outputs that the government is looking for are:<br>
 <p>The number of cases across the entire United Kingdom territory shows that the number of deaths has not peaked but also that those Provinces which are categorised as 'Other' skew the data significantly, so as to make the visualisation of all of the other Provinces difficult to show anything meaningful.
 Interestingly, we see that most Provinces follow the same trajectory, an initial spike, followed by a levelling off, before a futher spike and a second levelling off.</p><br>
 
-<img src="cum_deaths_all_regions.jpg">
+<img src="cum_deaths_all_regions.jpg" style=width:600px;height:450px align=center>
 
-<p>When the 'Others' province is removed, we gain the ability to review the deaths for the other provinces in a more granular level of detail.</p><br>
+<p>When the 'Others' province is removed, we gain the ability to review the deaths for the other provinces in a more granular level of detail.It is important to note that the downward trend in November 2021 would appear to be due to a lack of data rather than evidence of a downturn in deaths.</p><br>
 
-<img src="deaths_smoothed.jpg>
+<img src="deaths_smoothed.jpg">
+
+<h3>Recoveries</h3>
+
+
+
+
+<h3>Social Media</h3>
+
+<p>Social media understandably has formed part of governmental strategy to update the population on vaccination progress, deaths, recovery and policy. Interestingly, the top trending twitter hashtags all have COVID or a variation of, in them. It is interesting that there are not any hashtags which refer to government decisions, lockdowns or the NHS which might have been expected.It would be interesting to find out how the public perceive the government reponse to COVID as this would form part of the input into deciding where to focus their next vaccination drive but also determine if there are actions to take to improve the perception, resulting in a higher uptake.</p>
+
 
 <h2>Additional Exploration</h2>
 
