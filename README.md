@@ -56,7 +56,7 @@ The number of recoveries per Province is also showing as would be expected for a
 
 <p>Social media understandably has formed part of governmental strategy to update the population on vaccination progress, deaths, recovery and policy. Interestingly, the top trending twitter hashtags all have COVID or a variation of, in them. It is interesting that there are not any hashtags which refer to government decisions, lockdowns or the NHS which might have been expected.It would be interesting to find out how the public perceive the government reponse to COVID as this would form part of the input into deciding where to focus their next vaccination drive but also determine if there are actions to take to improve the perception, resulting in a higher uptake.</p><br>
 
-<img src="hashtags.jpg" style="width:200px;height:300px;">
+<img src="hashtags.jpg" style="width:150px;height:300px;">
 
 
 <h2>Additional Exploration</h2>
