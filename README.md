@@ -27,11 +27,22 @@ The key outputs that the government is looking for are:<br>
 <p>It is noted that uptake of the second dose is high, with all areas of the UK having a second dose uptake ratio of 95% against the take up of the first dose. What the figures don't show us is the total population of the Province and therefore, whilst the data shows us that those who have taken the first dose, the uptake of the second dose amongst them is high. It cannot currently be compared against the population which should be the next investigative route.</p><br>
 <p> The highest Province take up of the vaccination is Gibraltar but as previously mentioned, without a total population, it is not clear as to whether this number is high for the Province or not. It also has the biggest variance between the first and second dose with a difference of 264,745.</p>
 
-<img src="differen
+<img src="difference.jpg" style="width:400px;height:300px;">
 
+<h3>Cases and Deaths</h3>
 
+<p>The number of cases across the entire United Kingdom territory shows that the number of deaths has not peaked but also that those Provinces which are categorised as 'Other' skew the data significantly, so as to make the visualisation of all of the other Provinces difficult to show anything meaningful.
+Interestingly, we see that most Provinces follow the same trajectory, an initial spike, followed by a levelling off, before a futher spike and a second levelling off.</p><br>
 
+<img src="cum_deaths_all_regions.jpg">
 
-<p>It would also be good to identify if the data being provided was a rolling aggregated number of cases or if it was the number of cases reported that day. This would be an important distinction for the trend analysis.</p>
+<p>When the 'Others' province is removed, we gain the ability to review the deaths for the other provinces in a more granular level of detail.</p><br>
+
+<img src="deaths_smoothed.jpg>
+
+<h2>Additional Exploration</h2>
+
+<p>To further the analysis, it would also be good to identify some of the following:<br>
+<ls>if the data being provided was a rolling aggregated number of cases or if it was the number of cases reported that day. This would be an important distinction for the trend analysis.</p>
 
 
