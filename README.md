@@ -30,7 +30,7 @@ The key outputs that the government is looking for are:<br>
 <p>Similarly within the Gibraltar data, there is a wave like pattern for hospitalisations. This potentially coinciding with the vaccination drive leading to lower admissions, before the introduction of a new variant strain. The last two records provide interesting reading, potentially indicating a failure to record rather than a sudden drop to 0 for hospitalisations.</p><br>
 
 <h3>Vaccination Uptake</h3>
-<p>It is noted that uptake of the second dose is high, with all areas of the UK having a second dose uptake ratio of 95% against the take up of the first dose. What the figures don't show us is the total population of the Province and therefore, whilst the data shows us that those who have taken the first dose, the uptake of the second dose amongst them is high. It cannot currently be compared against the population which should be the next investigative route.</p><br>
+<p>It is noted that uptake of the second dose is high, with all areas of the UK having a second dose uptake ratio of above 95% against the take up of the first dose. What the figures don't show us is the total population of the Province and therefore, whilst the data shows us that those who have taken the first dose, the uptake of the second dose amongst them is high. It cannot currently be compared against the population which should be the next investigative route.</p><br>
 <p> The highest Province take up of the vaccination is Gibraltar but as previously mentioned, without a total population, it is not clear as to whether this number is high for the Province or not. It also has the biggest variance between the first and second dose with a difference of 264,745.</p>
 
 <img src="difference.jpg" style="width:400px;height:300px;">
@@ -38,9 +38,9 @@ The key outputs that the government is looking for are:<br>
 <h3>Cases and Deaths</h3>
 
 <p>The number of cases across the entire United Kingdom territory shows that the number of deaths has not peaked but also that those Provinces which are categorised as 'Other' skew the data significantly, so as to make the visualisation of all of the other Provinces difficult to show anything meaningful.
-Interestingly, we see that most Provinces follow the same trajectory, an initial spike, followed by a levelling off, before a futher spike and a second levelling off.</p><br>
+Interestingly, we see that most Provinces follow the same trajectory, an initial spike, followed by a levelling off, before a further spike and a second levelling off.</p><br>
 
-<img src="cum_deaths_all_regions.jpg" style=width:600px;height:450px align=center>
+<img src="cum_deaths_all_regions.jpg" style=width:600px;height:450px>
 
 <p>When the 'Others' province is removed, we gain the ability to review the deaths for the other provinces in a more granular level of detail.It is important to note that the downward trend in November 2021 would appear to be due to a lack of data rather than evidence of a downturn in deaths.</p><br>
 
@@ -49,16 +49,18 @@ Interestingly, we see that most Provinces follow the same trajectory, an initial
 <h3>Recoveries</h3>
 
 The number of recoveries per Province is also showing as would be expected for an unknown virus of this kind. A slow rise in number of those recovering whilst authorities are trying to identify the best way to treat those who have been infected, then a high rise in recoveries after the vaccinations are introduced to the populus and more is known on the best way to treat. It would be good to overlap the death rates with the recovery rates to see if the deaths and recoveries counter each other i.e. we see the death rates fall whilst recoveries increase.
-  
 
+<img src="recoveries.jpg" style=width:600px; height:450px>
+  
 <h3>Social Media</h3>
 
-<p>Social media understandably has formed part of governmental strategy to update the population on vaccination progress, deaths, recovery and policy. Interestingly, the top trending twitter hashtags all have COVID or a variation of, in them. It is interesting that there are not any hashtags which refer to government decisions, lockdowns or the NHS which might have been expected.It would be interesting to find out how the public perceive the government reponse to COVID as this would form part of the input into deciding where to focus their next vaccination drive but also determine if there are actions to take to improve the perception, resulting in a higher uptake.</p>
+<p>Social media understandably has formed part of governmental strategy to update the population on vaccination progress, deaths, recovery and policy. Interestingly, the top trending twitter hashtags all have COVID or a variation of, in them. It is interesting that there are not any hashtags which refer to government decisions, lockdowns or the NHS which might have been expected.It would be interesting to find out how the public perceive the government reponse to COVID as this would form part of the input into deciding where to focus their next vaccination drive but also determine if there are actions to take to improve the perception, resulting in a higher uptake.</p><br>
+
 
 
 <h2>Additional Exploration</h2>
 
 <p>To further the analysis, it would also be good to identify some of the following:<br>
-<ls>if the data being provided was a rolling aggregated number of cases or if it was the number of cases reported that day. This would be an important distinction for the trend analysis.</p>
+<ls>if the data being provided was a rolling aggregated number of cases or if it was the number of cases reported that day. This would be an important distinction for the trend analysis.</p><br>
 
 
