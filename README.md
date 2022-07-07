@@ -50,16 +50,13 @@ Interestingly, we see that most Provinces follow the same trajectory, an initial
 
 The number of recoveries per Province is also showing as would be expected for an unknown virus of this kind. A slow rise in number of those recovering whilst authorities are trying to identify the best way to treat those who have been infected, then a high rise in recoveries after the vaccinations are introduced to the populus and more is known on the best way to treat. It would be good to overlap the death rates with the recovery rates to see if the deaths and recoveries counter each other i.e. we see the death rates fall whilst recoveries increase.
 
-<img src="recoveries.jpg" style=width:600px; height:450px>
+<img src="recoveries.jpg" style=width:800px; height:550px>
   
 <h3>Social Media</h3>
 
 <p>Social media understandably has formed part of governmental strategy to update the population on vaccination progress, deaths, recovery and policy. Interestingly, the top trending twitter hashtags all have COVID or a variation of, in them. It is interesting that there are not any hashtags which refer to government decisions, lockdowns or the NHS which might have been expected.It would be interesting to find out how the public perceive the government reponse to COVID as this would form part of the input into deciding where to focus their next vaccination drive but also determine if there are actions to take to improve the perception, resulting in a higher uptake.</p><br>
 
 <img src="hashtags.jpg" style="width:150px;height:300px;">
-
-
-<h2>Additional Exploration</h2>
 
 <h2>Additional Exploration</h2>
 
