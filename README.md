@@ -61,7 +61,13 @@ The number of recoveries per Province is also showing as would be expected for a
 
 <h2>Additional Exploration</h2>
 
+<h2>Additional Exploration</h2>
+
 <p>To further the analysis, it would also be good to identify some of the following:<br>
-<ls>if the data being provided was a rolling aggregated number of cases or if it was the number of cases reported that day. This would be an important distinction for the trend analysis.</p><br>
+<ul>
+  <li>If the data being provided was a rolling aggregated number of cases or if it was the number of cases reported that day. </li>
+  <li>If recoveries and deaths overlapped by region</li>
+  <li>The influence of social media on vaccination uptake</li>
+  <li>More granular level detail of the 'Other' province to better see if there is one specific province which has been hit hardest and therefore needs the focus for vaccination drive</li></p>
 
 
